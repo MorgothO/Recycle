@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Recyclerview</string>
+    <string name="long_latin">ll</string>
+    <string name="sheet_p1">sup</string>
+
+    <string name="fil">FILter</string>
+    <string name="vv">SORT</string>
+    <string name="collapse_button1">cl</string>
+    <string name="ton">ton</string>
+</resources>
